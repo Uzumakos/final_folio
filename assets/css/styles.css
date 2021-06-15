@@ -852,22 +852,22 @@ img{
     font-size: var(--small-font-size);
 }
 
-.footer__link{
+.footer__links{
     display: flex;
     flex-direction: column;
     row-gap: 1.5rem;
 }
 
-.footer__link:hover{
+.footer__links:hover{
     color: var(--first-color-lighter);
 }
 
-.footer__social{
+.footer__socials{
     font-size: 1.25rem;
     margin-right: var(--mb-1-5);
 }
 
-.footer__social:hover{
+.footer__socials:hover{
     color: var(--first-color-lighter);
 }
 
@@ -880,8 +880,8 @@ img{
 
 .footer__title,
 .footer__subtitle,
-.footer__link,
-.footer__social{
+.footer__links,
+.footer__socials{
     color: #fff;
 }
 /*========== SCROLL UP ==========*/
